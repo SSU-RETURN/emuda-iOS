@@ -6,8 +6,8 @@
 
 ## 💻 Tech Stack
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=react&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=javascript&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white">
 </div>
 
 
