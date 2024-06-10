@@ -12,6 +12,7 @@
 		2DF343BC2C16BF7A001086A1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF343BB2C16BF7A001086A1 /* ViewController.swift */; };
 		2DF343C12C16BF7C001086A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DF343C02C16BF7C001086A1 /* Assets.xcassets */; };
 		2DF343C42C16BF7C001086A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DF343C22C16BF7C001086A1 /* LaunchScreen.storyboard */; };
+		2DF343CC2C16C004001086A1 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF343CB2C16C004001086A1 /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2DF343C02C16BF7C001086A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DF343C32C16BF7C001086A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2DF343C52C16BF7C001086A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DF343CB2C16C004001086A1 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				2DF343B72C16BF7A001086A1 /* AppDelegate.swift */,
 				2DF343B92C16BF7A001086A1 /* SceneDelegate.swift */,
+				2DF343CB2C16C004001086A1 /* WebViewController.swift */,
 				2DF343BB2C16BF7A001086A1 /* ViewController.swift */,
 				2DF343C02C16BF7C001086A1 /* Assets.xcassets */,
 				2DF343C22C16BF7C001086A1 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 				2DF343BC2C16BF7A001086A1 /* ViewController.swift in Sources */,
 				2DF343B82C16BF7A001086A1 /* AppDelegate.swift in Sources */,
 				2DF343BA2C16BF7A001086A1 /* SceneDelegate.swift in Sources */,
+				2DF343CC2C16C004001086A1 /* WebViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

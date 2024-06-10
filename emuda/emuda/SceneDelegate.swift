@@ -18,7 +18,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         window = UIWindow(windowScene: windowScene)
         
         let window = UIWindow(windowScene: windowScene)
-        let viewController = ViewController()
+        let viewController = WebViewController()
+        viewController.urlString = "http://emuda.s3-website-us-east-1.amazonaws.com/login"
         
         window.rootViewController = UINavigationController(rootViewController: viewController)
         self.window = window
